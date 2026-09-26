@@ -18,6 +18,7 @@ keep in updates.
 
 ## Selection Sort
 Time Complexity: O( $n^2$ )
+
 Stable(Means that if they are same value elements, are they going to change it's
 index order): No
 
