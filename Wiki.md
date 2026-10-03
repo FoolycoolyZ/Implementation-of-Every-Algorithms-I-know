@@ -11,15 +11,41 @@ keep in updates.
 ## Table of Contents:
 
 ### Sorting:
+- [Bubble Sort](#bubble-sort)
 - [Selection Sort](#selection-sort)
-
+- [Insertion Sort](#insertion-sort)
 
 # Sorting
+
+## Bubble Sort
+Time Complexity: O ( $n^2$ )
+
+Stable: Yes
+
+In-Place: Yes
+
+Aux Space: O( $1$ )
 
 ## Selection Sort
 Time Complexity: O( $n^2$ )
 
 Stable(Means that if they are same value elements, are they going to change it's
 index order): No
+
+In-Place: Yes
+
+Aux Space: O( $1$ )
+
+## Insertion Sort
+Time Complexity: 
+  Best Case: O( $n$ )
+  Average Case: O ( $n^2$ )
+  Worst Case: O( $n^2$ )
+  
+Stable: Yes 
+
+In-Place: Yes
+
+Aux Space: O( $1$ ) we have some constants inside the loop, so it's O( $1$ )
 
 
